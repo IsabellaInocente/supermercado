@@ -1,0 +1,11 @@
+{
+    "produtos":[
+        {
+            "img": "../../assets/shopping (6).webp",
+            "nome": "Peito de Frango",
+            "valor": 30,
+            "descrição": "Peito de Frango Sadia 1kg",
+            "id":10
+        }
+    ]
+}
